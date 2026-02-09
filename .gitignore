@@ -1,0 +1,5 @@
+*.vsidx
+/SistemaBancarioo/SistemaBCCSLN/SistemaBCCSLN/bin
+*.cache
+/SistemaBancarioo/SistemaBCCSLN/SistemaBCCSLN/obj
+/SistemaBancarioo/SistemaBCCSLN/.vs/SistemaBCCSLN/v17
