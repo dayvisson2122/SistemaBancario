@@ -1,35 +1,17 @@
 ﻿using SistemaBCCSLN;
 
-internal class Program
+class Program
 {
-    private static void Main(string[] args)
+    static void Main(string[] args)
     {
+        TransacaoPix meuPix = new TransacaoPix();
+        meuPix.Valor = 15000;
+        meuPix.ChavePix = "contato@gemini.com";
 
-       
-        Banco meuBanco = new Banco();
+        TransacaoTed meuTed = new TransacaoTed();
+        meuTed.Valor = 6000;
 
-        meuBanco.Nome = "Banco do Brasil";
-
-        meuBanco.CodigoBACEN = "001";
-
-
-       
-        Transacao minhaTransacao = new Transacao();
-
-        minhaTransacao.Valor = 250.00m;
-
-        minhaTransacao.Data = DateTime.Now;
-
-        minhaTransacao.Tipo = "PIX";
-
-        ContaBancaria CoontaBancaria = new ContaBancaria();
-
-        Console.WriteLine("    REGISTRO BACEN    ");
-        Console.WriteLine("Banco: " + meuBanco.Nome);
-        Console.WriteLine("Código: " + meuBanco.CodigoBACEN);
-        Console.WriteLine("----------------------");
-        Console.WriteLine("Tipo: " + minhaTransacao.Tipo);
-        Console.WriteLine("Valor: " + minhaTransacao.Valor);
-        Console.WriteLine("Data: " + minhaTransacao.Data);
+        Console.WriteLine($"PIX de R$ {meuPix.Valor} é válido? {meuPix.Validar()}");
+        Console.WriteLine($"TED de R$ {meuTed.Valor} é válido? {meuTed.Validar()}");
     }
 }
