@@ -13,10 +13,10 @@ namespace SistemaBCCSLN
             private string codigoBACEN;
 
             public string Nome
-            {
-                get { return nome.ToUpper(); }
-                set { nome = value; }
-            }
+        {
+            get { return nome.ToUpper(); }
+            set { nome = value; }
+        }
 
             public string CodigoBACEN
             {

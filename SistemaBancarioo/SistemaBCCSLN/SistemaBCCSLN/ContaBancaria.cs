@@ -6,10 +6,13 @@ using System.Threading.Tasks;
 
 namespace SistemaBCCSLN
 {
-    internal class ContaBancaria
+    public abstract class ContaBancaria
     {
-        public string Agencia { get; set; }
         public string NumeroConta { get; set; }
-        public decimal Saldo { get; set; }
+        public Cliente Titular { get; set; }
+        public decimal Saldo { get; protected set; }
+
+        public abstract void CalcularTarifa();
     }
+
 }

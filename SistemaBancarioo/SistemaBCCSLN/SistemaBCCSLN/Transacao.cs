@@ -6,26 +6,26 @@ using System.Threading.Tasks;
 
 namespace SistemaBCCSLN
 {
-    public class Transacao
-    {
-        protected decimal _valor;
-
-        public decimal Valor
+   
+        public abstract class Transacao
         {
-            get { return _valor; }
-            set { if (value > 0) _valor = value; }
+            protected decimal _valor;
+
+            public decimal Valor
+            {
+                get { return _valor; }
+                set { if (value > 0) _valor = value; }
+            }
+
+            public DateTime Data { get; set; } = DateTime.Now;
+            public ContaBancaria Origem { get; set; }
+            public ContaBancaria Destino { get; set; }
+
+            public virtual bool Validar()
+            {
+                return _valor > 0 && Origem != null && Destino != null;
+            }
         }
 
-        public DateTime Data { get; set; } = DateTime.Now;
-        public string ContaOrigem { get; set; }
-        public string ContaDestino { get; set; }
-
-        public virtual bool Validar()
-        {
-            return _valor > 0;
-        }
-
-    
     }
 
-}

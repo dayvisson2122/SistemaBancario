@@ -1,0 +1,143 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Deivyson\\Documents\\GitHub\\SistemaBancario\\SistemaBancarioo\\SistemaBCCSLN\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{440045D1-EE44-43C1-A368-B0FC09210EC7}|SistemaBCCSLN\\SistemaBCCSLN.csproj|c:\\users\\deivyson\\documents\\github\\sistemabancario\\sistemabancarioo\\sistemabccsln\\sistemabccsln\\banco.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{440045D1-EE44-43C1-A368-B0FC09210EC7}|SistemaBCCSLN\\SistemaBCCSLN.csproj|solutionrelative:sistemabccsln\\banco.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{440045D1-EE44-43C1-A368-B0FC09210EC7}|SistemaBCCSLN\\SistemaBCCSLN.csproj|c:\\users\\deivyson\\documents\\github\\sistemabancario\\sistemabancarioo\\sistemabccsln\\sistemabccsln\\contabancaria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{440045D1-EE44-43C1-A368-B0FC09210EC7}|SistemaBCCSLN\\SistemaBCCSLN.csproj|solutionrelative:sistemabccsln\\contabancaria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{440045D1-EE44-43C1-A368-B0FC09210EC7}|SistemaBCCSLN\\SistemaBCCSLN.csproj|c:\\users\\deivyson\\documents\\github\\sistemabancario\\sistemabancarioo\\sistemabccsln\\sistemabccsln\\transacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{440045D1-EE44-43C1-A368-B0FC09210EC7}|SistemaBCCSLN\\SistemaBCCSLN.csproj|solutionrelative:sistemabccsln\\transacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{440045D1-EE44-43C1-A368-B0FC09210EC7}|SistemaBCCSLN\\SistemaBCCSLN.csproj|c:\\users\\deivyson\\documents\\github\\sistemabancario\\sistemabancarioo\\sistemabccsln\\sistemabccsln\\pessoajuridica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{440045D1-EE44-43C1-A368-B0FC09210EC7}|SistemaBCCSLN\\SistemaBCCSLN.csproj|solutionrelative:sistemabccsln\\pessoajuridica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{440045D1-EE44-43C1-A368-B0FC09210EC7}|SistemaBCCSLN\\SistemaBCCSLN.csproj|c:\\users\\deivyson\\documents\\github\\sistemabancario\\sistemabancarioo\\sistemabccsln\\sistemabccsln\\pessoafisica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{440045D1-EE44-43C1-A368-B0FC09210EC7}|SistemaBCCSLN\\SistemaBCCSLN.csproj|solutionrelative:sistemabccsln\\pessoafisica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{440045D1-EE44-43C1-A368-B0FC09210EC7}|SistemaBCCSLN\\SistemaBCCSLN.csproj|c:\\users\\deivyson\\documents\\github\\sistemabancario\\sistemabancarioo\\sistemabccsln\\sistemabccsln\\contacorrente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{440045D1-EE44-43C1-A368-B0FC09210EC7}|SistemaBCCSLN\\SistemaBCCSLN.csproj|solutionrelative:sistemabccsln\\contacorrente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{440045D1-EE44-43C1-A368-B0FC09210EC7}|SistemaBCCSLN\\SistemaBCCSLN.csproj|c:\\users\\deivyson\\documents\\github\\sistemabancario\\sistemabancarioo\\sistemabccsln\\sistemabccsln\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{440045D1-EE44-43C1-A368-B0FC09210EC7}|SistemaBCCSLN\\SistemaBCCSLN.csproj|solutionrelative:sistemabccsln\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Banco.cs",
+              "DocumentMoniker": "C:\\Users\\Deivyson\\Documents\\GitHub\\SistemaBancario\\SistemaBancarioo\\SistemaBCCSLN\\SistemaBCCSLN\\Banco.cs",
+              "RelativeDocumentMoniker": "SistemaBCCSLN\\Banco.cs",
+              "ToolTip": "C:\\Users\\Deivyson\\Documents\\GitHub\\SistemaBancario\\SistemaBancarioo\\SistemaBCCSLN\\SistemaBCCSLN\\Banco.cs",
+              "RelativeToolTip": "SistemaBCCSLN\\Banco.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-25T23:03:35.91Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PessoaJuridica.cs",
+              "DocumentMoniker": "C:\\Users\\Deivyson\\Documents\\GitHub\\SistemaBancario\\SistemaBancarioo\\SistemaBCCSLN\\SistemaBCCSLN\\PessoaJuridica.cs",
+              "RelativeDocumentMoniker": "SistemaBCCSLN\\PessoaJuridica.cs",
+              "ToolTip": "C:\\Users\\Deivyson\\Documents\\GitHub\\SistemaBancario\\SistemaBancarioo\\SistemaBCCSLN\\SistemaBCCSLN\\PessoaJuridica.cs",
+              "RelativeToolTip": "SistemaBCCSLN\\PessoaJuridica.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-25T23:02:23.51Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Transacao.cs",
+              "DocumentMoniker": "C:\\Users\\Deivyson\\Documents\\GitHub\\SistemaBancario\\SistemaBancarioo\\SistemaBCCSLN\\SistemaBCCSLN\\Transacao.cs",
+              "RelativeDocumentMoniker": "SistemaBCCSLN\\Transacao.cs",
+              "ToolTip": "C:\\Users\\Deivyson\\Documents\\GitHub\\SistemaBancario\\SistemaBancarioo\\SistemaBCCSLN\\SistemaBCCSLN\\Transacao.cs",
+              "RelativeToolTip": "SistemaBCCSLN\\Transacao.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-25T22:42:26.199Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ContaBancaria.cs",
+              "DocumentMoniker": "C:\\Users\\Deivyson\\Documents\\GitHub\\SistemaBancario\\SistemaBancarioo\\SistemaBCCSLN\\SistemaBCCSLN\\ContaBancaria.cs",
+              "RelativeDocumentMoniker": "SistemaBCCSLN\\ContaBancaria.cs",
+              "ToolTip": "C:\\Users\\Deivyson\\Documents\\GitHub\\SistemaBancario\\SistemaBancarioo\\SistemaBCCSLN\\SistemaBCCSLN\\ContaBancaria.cs",
+              "RelativeToolTip": "SistemaBCCSLN\\ContaBancaria.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-25T22:46:49.995Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PessoaFisica.cs",
+              "DocumentMoniker": "C:\\Users\\Deivyson\\Documents\\GitHub\\SistemaBancario\\SistemaBancarioo\\SistemaBCCSLN\\SistemaBCCSLN\\PessoaFisica.cs",
+              "RelativeDocumentMoniker": "SistemaBCCSLN\\PessoaFisica.cs",
+              "ToolTip": "C:\\Users\\Deivyson\\Documents\\GitHub\\SistemaBancario\\SistemaBancarioo\\SistemaBCCSLN\\SistemaBCCSLN\\PessoaFisica.cs",
+              "RelativeToolTip": "SistemaBCCSLN\\PessoaFisica.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-25T23:01:39.726Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Cliente.cs",
+              "DocumentMoniker": "C:\\Users\\Deivyson\\Documents\\GitHub\\SistemaBancario\\SistemaBancarioo\\SistemaBCCSLN\\SistemaBCCSLN\\Cliente.cs",
+              "RelativeDocumentMoniker": "SistemaBCCSLN\\Cliente.cs",
+              "ToolTip": "C:\\Users\\Deivyson\\Documents\\GitHub\\SistemaBancario\\SistemaBancarioo\\SistemaBCCSLN\\SistemaBCCSLN\\Cliente.cs",
+              "RelativeToolTip": "SistemaBCCSLN\\Cliente.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-25T22:52:44.124Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ContaCorrente.cs",
+              "DocumentMoniker": "C:\\Users\\Deivyson\\Documents\\GitHub\\SistemaBancario\\SistemaBancarioo\\SistemaBCCSLN\\SistemaBCCSLN\\ContaCorrente.cs",
+              "RelativeDocumentMoniker": "SistemaBCCSLN\\ContaCorrente.cs",
+              "ToolTip": "C:\\Users\\Deivyson\\Documents\\GitHub\\SistemaBancario\\SistemaBancarioo\\SistemaBCCSLN\\SistemaBCCSLN\\ContaCorrente.cs",
+              "RelativeToolTip": "SistemaBCCSLN\\ContaCorrente.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-25T22:51:35.276Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
